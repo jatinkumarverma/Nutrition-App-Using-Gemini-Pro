@@ -57,5 +57,19 @@ Ensure you have the following installed:
      ```
    - Including it in your backend configuration.
 
+## Resources
+
+The following resources were used to guide the development of this project:
+
+- **Generative AI Concepts:**
+  - NLP: [TutorialsPoint - Natural Language Processing](https://www.tutorialspoint.com/natural_language_processing/index.htm)
+  - Generative AI: [Wikipedia - Generative Artificial Intelligence](https://en.wikipedia.org/wiki/Generative_artificial_intelligence)
+  
+- **Gemini Pro:**
+  - [Google - Gemini API Documentation](https://ai.google.dev/gemini-api/docs/get-started/python)
+  
+- **Streamlit:**
+  - [GeeksforGeeks - A Beginner's Guide to Streamlit](https://www.geeksforgeeks.org/a-beginners-guide-to-streamlit/)
+
 ## Contributing
 If you'd like to contribute to the project, please fork the repository and submit a pull request with your proposed changes.
